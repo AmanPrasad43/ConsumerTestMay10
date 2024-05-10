@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="c8b0469c-a1ef-49c8-ad6f-68a30fa29f64" ItemType="Agent" CreatedBy="amanpras" Created="202405101101" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405101101" />
+<Agent AgentType="Driver" DriverType="WindowsAutomation" Guid="c8b0469c-a1ef-49c8-ad6f-68a30fa29f64" Name="Windows12" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Windows">
+<DriverConfiguration>
+<DriverConfigParam Description="Action Timeout - default is 150 seconds" Guid="9f906707-f363-4589-970f-f017eb1ded4d" Parameter="ActionTimeout" ParentGuid="00000000-0000-0000-0000-000000000000" Value="150" />
+<DriverConfigParam Description="Amount of time the driver should wait when searching for an element if it is not immediately present" Guid="aeac31bc-291f-4b7c-ad9f-4503fee27b0a" Parameter="ImplicitWait" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+<DriverConfigParam Description="Applitool View Key number" Guid="3d489014-b4cd-4f81-8b83-760ddd9f1ce9" Parameter="ApplitoolsViewKey" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="Applitool Server Url" Guid="e6a5d079-c2c0-4c7f-b040-20cd04d23fe0" Parameter="ApplitoolsServerUrl" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="The amount of maximum time (in seconds) to wait for the driver to load/connect" Guid="198583df-7a84-4356-9eef-1828c5cb7887" Parameter="DriverLoadWaitingTime" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+</DriverConfiguration>
+</Agent></GingerRepositoryItem>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="5c63e7ae-e1d1-4c67-9457-e767cd19c096" ItemType="ProjEnvironment" CreatedBy="amanpras" Created="202405101057" GingerVersion="24.2.0.0" Version="2" LastUpdateBy="amanpras" LastUpdate="202405101101" />
+<ProjEnvironment Guid="5c63e7ae-e1d1-4c67-9457-e767cd19c096" Name="Default" ParentGuid="00000000-0000-0000-0000-000000000000">
+<Applications>
+<EnvApplication Active="True" Guid="e6c215ae-a286-48a9-a3fa-1f6fc9a84f2b" Name="MyWebServices" ParentGuid="ceab490c-b5ad-4506-bef0-04bb43b2a948" />
+<EnvApplication Active="True" Guid="989f9a40-89b0-429b-a56f-61f0a38bcec1" Name="JAVA" ParentGuid="5a9c5f44-1259-4b9a-94e9-fc2097890811" />
+<EnvApplication Active="True" Guid="19d1873a-4e2f-4701-9f6d-4ed4c5988606" Name="Windows12" ParentGuid="a0399f38-52ae-4950-b93c-9898d782aa42" />
+</Applications>
+</ProjEnvironment></GingerRepositoryItem>

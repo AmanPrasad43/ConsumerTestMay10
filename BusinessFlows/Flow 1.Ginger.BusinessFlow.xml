@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="c40192bd-fdaf-42f9-aa75-d58535030147" ItemType="BusinessFlow" CreatedBy="amanpras" Created="202405101057" GingerVersion="24.2.0.0" Version="3" LastUpdateBy="amanpras" LastUpdate="202405101101" />
+<BusinessFlow Guid="c40192bd-fdaf-42f9-aa75-d58535030147" Name="Flow 1" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Status="Unknown">
+<Activities>
+<Activity Active="True" ActivitiesGroupID="Group" ActivityName="CRM" Guid="afbaa741-c045-474b-b7b5-8d606324bf40" ParentGuid="afbaa741-c045-474b-b7b5-8d606324bf40" Type="Link" />
+</Activities>
+
+<ActivitiesGroups>
+<ActivitiesGroup Guid="b86ce942-f52e-4451-848e-4b879b5c0120" Name="Group" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ActivitiesIdentifiers>
+<ActivityIdentifiers ActivityAutomationStatus="Development" ActivityGuid="afbaa741-c045-474b-b7b5-8d606324bf40" ActivityName="CRM" ActivityParentGuid="00000000-0000-0000-0000-000000000000" Guid="291b78d3-65a2-4527-b452-7ad3a2648ffb" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ActivitiesIdentifiers>
+</ActivitiesGroup>
+</ActivitiesGroups>
+
+<TargetApplications>
+<TargetApplication AppName="MyWebServices" Guid="765579da-48cb-475d-a930-3d6b91226743" ParentGuid="ceab490c-b5ad-4506-bef0-04bb43b2a948" />
+</TargetApplications>
+</BusinessFlow></GingerRepositoryItem>

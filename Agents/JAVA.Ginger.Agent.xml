@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="7df59831-c933-449b-8c50-122c0e0b4c49" ItemType="Agent" CreatedBy="amanpras" Created="202405101100" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405101100" />
+<Agent AgentType="Driver" DriverType="JavaDriver" Guid="7df59831-c933-449b-8c50-122c0e0b4c49" Name="JAVA" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Java">
+<DriverConfiguration>
+<DriverConfigParam Description="Location of Agent - leave default or set the IP address of the remote machine" Guid="653309b4-d28b-46d0-a4d4-1480ed6d9159" Parameter="JavaAgentHost" ParentGuid="00000000-0000-0000-0000-000000000000" Value="127.0.0.1" />
+<DriverConfigParam Description="JavaAgent Host Port - default is 8888" Guid="0db71101-15f6-4f83-bb73-681ee8cc85d0" Parameter="JavaAgentPort" ParentGuid="00000000-0000-0000-0000-000000000000" Value="8888" />
+<DriverConfigParam Description="Communication Timeout - default is 120 seconds" Guid="d861c763-b0ef-42e3-8f5e-aafe22fc24ba" Parameter="CommunicationTimout" ParentGuid="00000000-0000-0000-0000-000000000000" Value="120" />
+<DriverConfigParam Description="Command Timeout - default is 120 seconds" Guid="33c216b3-c0c4-47d4-b988-3507628ca2bf" Parameter="CommandTimeout" ParentGuid="00000000-0000-0000-0000-000000000000" Value="120" />
+<DriverConfigParam Description="Implicit wait is to tell driver to sync for a certain amount of time when trying to find an element, if they are not immediately available" Guid="fdcbc833-fe15-4ab4-8507-2892f997abf3" Parameter="ImplicitWait" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+<DriverConfigParam Description="Applitool View Key number" Guid="066ef107-d72d-4106-b861-ebc1383d14ba" Parameter="ApplitoolsViewKey" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="Applitool Server Url" Guid="bb79267a-791d-4af9-a6e2-085803919289" Parameter="ApplitoolsServerUrl" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="The amount of maximum time (in seconds) to wait for the driver to load/connect" Guid="a2a59fd1-68d2-439b-a2fb-dc52a6b5f0e3" Parameter="DriverLoadWaitingTime" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+</DriverConfiguration>
+</Agent></GingerRepositoryItem>
