@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="05b5d935-b9dd-4f90-a134-e4cd20f23909" ItemType="Activity" CreatedBy="amanpras" Created="202405101353" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405101353" />
+<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="API" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="05b5d935-b9dd-4f90-a134-e4cd20f23909" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" POMMetaDataId="00000000-0000-0000-0000-000000000000" Publish="True" TargetApplication="MyWebServices" Type="Regular">
+<ConsumerApplications>
+<Consumer ConsumerGuid="5a9c5f44-1259-4b9a-94e9-fc2097890811" Guid="d990df4d-552c-403e-a901-4515599cef69" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ConsumerApplications>
+</Activity></GingerRepositoryItem>

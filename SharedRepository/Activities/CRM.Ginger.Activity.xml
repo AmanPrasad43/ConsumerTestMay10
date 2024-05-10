@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<GingerRepositoryItem><Header ItemGuid="afbaa741-c045-474b-b7b5-8d606324bf40" ItemType="Activity" CreatedBy="amanpras" Created="202405101101" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405101101" />
-<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="CRM" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="afbaa741-c045-474b-b7b5-8d606324bf40" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" POMMetaDataId="00000000-0000-0000-0000-000000000000" TargetApplication="MyWebServices" Type="Regular">
+<GingerRepositoryItem><Header ItemGuid="afbaa741-c045-474b-b7b5-8d606324bf40" ItemType="Activity" CreatedBy="amanpras" Created="202405101101" GingerVersion="24.2.0.0" Version="2" LastUpdateBy="amanpras" LastUpdate="202405101353" />
+<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="CRM" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="afbaa741-c045-474b-b7b5-8d606324bf40" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" POMMetaDataId="00000000-0000-0000-0000-000000000000" Publish="True" TargetApplication="MyWebServices" Type="Regular">
 <ConsumerApplications>
-<Consumer ConsumerGuid="5a9c5f44-1259-4b9a-94e9-fc2097890811" Guid="3d4e1c84-52d2-43d8-96a8-d16befbea872" ParentGuid="00000000-0000-0000-0000-000000000000" />
-<Consumer ConsumerGuid="a0399f38-52ae-4950-b93c-9898d782aa42" Guid="94fa8b5c-febc-4467-be97-bb4ff441918d" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<Consumer ConsumerGuid="5a9c5f44-1259-4b9a-94e9-fc2097890811" Guid="0398cfa9-532e-4117-a6cc-b42ffd982e1b" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<Consumer ConsumerGuid="a0399f38-52ae-4950-b93c-9898d782aa42" Guid="95f3a85d-89db-4d32-b3dc-945971273ccb" ParentGuid="00000000-0000-0000-0000-000000000000" />
 </ConsumerApplications>
 </Activity></GingerRepositoryItem>
