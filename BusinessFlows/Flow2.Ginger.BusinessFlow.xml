@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="824314ab-2ec9-4fea-95ba-341ecf7de19e" ItemType="BusinessFlow" CreatedBy="amanpras" Created="202405130644" GingerVersion="24.2.0.0" Version="4" LastUpdateBy="amanpras" LastUpdate="202405130645" />
+<BusinessFlow Guid="824314ab-2ec9-4fea-95ba-341ecf7de19e" Name="Flow2" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Status="Unknown">
+<Activities>
+<Activity Active="True" ActivitiesGroupID="Group" ActivityName="tEST1" Guid="a351ba86-c123-4d08-a8dc-fb3cf60d48f4" ParentGuid="a351ba86-c123-4d08-a8dc-fb3cf60d48f4" Type="Link" />
+</Activities>
+
+<ActivitiesGroups>
+<ActivitiesGroup Guid="a8a900b1-778a-47d0-9e69-9ee3b8ed100b" Name="Group" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ActivitiesIdentifiers>
+<ActivityIdentifiers ActivityAutomationStatus="Development" ActivityGuid="a351ba86-c123-4d08-a8dc-fb3cf60d48f4" ActivityName="tEST1" ActivityParentGuid="00000000-0000-0000-0000-000000000000" Guid="fcbbc8bb-1df3-429a-86d7-6523963073bf" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ActivitiesIdentifiers>
+</ActivitiesGroup>
+</ActivitiesGroups>
+
+<TargetApplications>
+<TargetApplication AppName="MyWebServices" Guid="ef734268-d0dd-4e7f-ad27-14edf109415e" ParentGuid="ceab490c-b5ad-4506-bef0-04bb43b2a948" />
+</TargetApplications>
+</BusinessFlow></GingerRepositoryItem>

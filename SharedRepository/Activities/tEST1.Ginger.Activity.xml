@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="a351ba86-c123-4d08-a8dc-fb3cf60d48f4" ItemType="Activity" CreatedBy="amanpras" Created="202405130645" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405130645" />
+<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="tEST1" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="a351ba86-c123-4d08-a8dc-fb3cf60d48f4" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" POMMetaDataId="00000000-0000-0000-0000-000000000000" Publish="True" TargetApplication="MyWebServices" Type="Regular">
+<ConsumerApplications>
+<Consumer ConsumerGuid="a0399f38-52ae-4950-b93c-9898d782aa42" Guid="ed8fa4e4-7aee-4171-9c84-3f6cef474750" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<Consumer ConsumerGuid="dfc83fe9-8c59-482e-9373-124e1a15d4ca" Guid="ee4c292e-617b-4968-b0f2-abb36bdb80f4" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<Consumer ConsumerGuid="6da9e9d9-59c1-45c9-865c-5e70d7ffdc83" Guid="77ba8dbf-9e82-455a-abcd-47119c067573" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ConsumerApplications>
+</Activity></GingerRepositoryItem>

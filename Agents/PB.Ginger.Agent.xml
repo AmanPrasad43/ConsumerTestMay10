@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="6709e017-3fd3-435e-bd7b-389d2c42f187" ItemType="Agent" CreatedBy="amanpras" Created="202405130644" GingerVersion="24.2.0.0" Version="1" LastUpdateBy="amanpras" LastUpdate="202405130644" />
+<Agent AgentType="Driver" DriverType="PowerBuilder" Guid="6709e017-3fd3-435e-bd7b-389d2c42f187" Name="PB" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="PowerBuilder">
+<DriverConfiguration>
+<DriverConfigParam Description="Action Timeout - default is 150 seconds" Guid="b2db377a-6ce3-447d-8f3d-a219010f99a1" Parameter="ActionTimeout" ParentGuid="00000000-0000-0000-0000-000000000000" Value="150" />
+<DriverConfigParam Description="Amount of time the driver should wait when searching for an element if it is not immediately present" Guid="e4e7549d-222a-484c-b9e9-23a1f6ae278f" Parameter="ImplicitWait" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+<DriverConfigParam Description="Applitool View Key number" Guid="2ecbc6af-2a14-4e40-b427-e4830881da2c" Parameter="ApplitoolsViewKey" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="Applitool Server Url" Guid="c78dbebc-1926-4d3c-bb9b-db7ac2ced797" Parameter="ApplitoolsServerUrl" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<DriverConfigParam Description="The amount of maximum time (in seconds) to wait for the driver to load/connect" Guid="6ccfe7ca-3c06-4098-b121-7286807933b3" Parameter="DriverLoadWaitingTime" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+</DriverConfiguration>
+</Agent></GingerRepositoryItem>
